@@ -1,7 +1,9 @@
 # ThermoTest
+![side](https://github.com/johnpeterson0804/ThermoTest/blob/main/Side%20View.jpg?raw=true)
+![top](https://github.com/johnpeterson0804/ThermoTest/blob/main/Top%20View.jpg?raw=true)
 Repo for information about the ThermoTest line of devices
 
-There have been times when I need to jumper two wires together, but then take them off again, like determining which A/C my system is controlling, on a rooftop of dozens. A partner would help, with them you could have them to jumper at the indoor equipment or use the stat to toggle equipment on, but that labor is expensive, and this is the equivalent. Attach a jumper-Wireless Nut-jumper between the terminals of whatever you want to jumper at a distance with a 433mz remote, and toggle or momentary toggle with a temporary click.
+There have been times when I need to jumper two wires together, but then take them off again, like determining which A/C my system is controlling, on a rooftop of dozens. A partner would help, they could toggle it in real time at the thermostat while I'm on the roof, but labor is expensive, and this is my solution. Install this device interupting whatever you want to jumper at a distance, and using any 433mz remote you can toggle it at a distance.
 
 
 
